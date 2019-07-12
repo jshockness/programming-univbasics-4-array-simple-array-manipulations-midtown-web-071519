@@ -1,9 +1,9 @@
 def using_push(array, string)
-  array.push(strings)
+  array.push(string)
 end
 
-def using_unshift(array, strings)
-  array.unshift(strings)
+def using_unshift(array, string)
+  array.unshift(string)
 end
 
 def using_pop(array)
@@ -30,4 +30,4 @@ def using_insert(array, element)
   array.insert(4, element)
 end
 
-def
+def using
